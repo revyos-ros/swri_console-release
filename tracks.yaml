@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/swri_console-release.git
 tracks:
   dashing:
     actions:
